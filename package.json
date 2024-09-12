@@ -8,7 +8,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Neelabh Sinha",
+  "author": "Digesh Dansana",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
